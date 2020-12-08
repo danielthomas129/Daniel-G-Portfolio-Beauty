@@ -1,3 +1,4 @@
+
 body {
     background-image: url('https://github.com/danielthomas129/Daniel-G-Portfolio-Beauty/blob/d70083d71f01b0bde770b4d5bdb6a8f7d6404ec8/assets/ignasi_pattern_s.png?raw=true');
     background-repeat: repeat;
@@ -5,6 +6,27 @@ body {
     background-size: cover;
   }
 
+
+.brand {
+    margin-left: 55px;
+}
+.my-name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+    line-height: 1.58;
+    padding: 20px;
+}
+
+.pageType {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    line-height: 1.58;
+    padding: 20px;
+    color: #4AAAA5; 
+
+}
 
 
 .card {
@@ -14,6 +36,7 @@ body {
     color: #555555;
     background-color: #fff; }
 }
+
 
 .card-block {
     font-size: large;
@@ -32,7 +55,6 @@ body {
 .col-md-8 {
     font-weight: initial;
    
-
 .card-img-left {
     width: 100%;
     height: 15vw;
