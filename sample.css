@@ -7,21 +7,19 @@ body {
     background-attachment: fixed;
     font-family: sans-serif;
 }
-.brand {
-    margin-left: 55px;
-    color: #4AAAA5; 
-}
 h1, .my-name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:  #18A2B7; 
     font-weight: bold;
-
+ }   
+.brand {
+    margin-left: 55px;
+    color: #4AAAA5; 
 }
 .main {
     padding: 30px;
     background-color: #fff;
 }
-
 .container {
     font-size: 16px;
     line-height: 1.58;
