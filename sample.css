@@ -11,12 +11,6 @@ body {
     margin-left: 55px;
     color: #4AAAA5; 
 }
-.my-name {
-    font-size: x-large;
-    line-height: 1.58;
-    padding: 20px;
-}
-
 h1, .my-name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:  #18A2B7; 
